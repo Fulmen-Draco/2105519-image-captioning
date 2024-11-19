@@ -3,4 +3,4 @@ tensorflow
 opencv-python 
 pillow
 keras
-pickle
+
